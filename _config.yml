@@ -1,6 +1,6 @@
 # Setup
 title: Giammarco D'Alessandro
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+description: A simple, beautiful, and powerful Jekyll theme for blogs, and zavve.
 url: https://giamdalessandro.github.io
 avatar: /avatar_kermit.jpeg
 paginate: 5
@@ -20,12 +20,13 @@ remote_theme: vszhub/not-pure-poole
 
 # Optimize Jekyll
 exclude:
-  - .editorconfig
   - .git
+  - .editorconfig
   - .jekyll-cache
+  - .sass-cache
+  - scripts/
   - Gemfile
   - Gemfile.lock
-  #- LICENSE.md
-  - README.md
-  - scripts/
   - not-pure-poole.gemspec
+  - README.md
+  #- LICENSE.md
