@@ -118,7 +118,13 @@ PLATFORMS
 
 DEPENDENCIES
   eventmachine!
+  jekyll
+  jekyll-feed
+  jekyll-gist
+  jekyll-paginate
   jekyll-remote-theme
+  jekyll-seo-tag
+  jekyll-sitemap
   not-pure-poole
   sassc
   webrick (~> 1.7)
