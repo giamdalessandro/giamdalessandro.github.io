@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adding post to the creole.
+title: Work in progress.
 author: Zavve
 tags:
 - tests
@@ -9,6 +9,6 @@ date: 2021-09-06 13:27 +0800
 
 # dummy post
 
-Blablablero fuffalà!! Vedemo se funziona, ahahahah!
+This site is a work in progress
 
-<img src="/assets/imgs/perseverance_navcam_sol9.jpg" alt="Nasa perseverance"/>
+<img src="http://cdn7.bigcommerce.com/s-frpbc5/images/stencil/2000x2000/products/1477/2368/EU20456_450x300_POLY__65377.1501221190.jpg?c=2" alt="Work in progress" style="height: 420px; width:660px;">
