@@ -33,6 +33,15 @@ footer {
   margin-bottom: var(--spacer-3);
 }
 
+// --- ZAVVE
+#bottom-pin {
+  position: absolute;
+  bottom: 0;
+  left: auto;
+}
+
+
+
 @media (min-width: $md-width) {
   .content {
     padding-top: var(--spacer-3);

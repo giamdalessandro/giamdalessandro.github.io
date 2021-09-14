@@ -2,10 +2,10 @@
 title: Zavve Malgrovio
 description: A simple, beautiful, and powerful Jekyll theme for blogs, and zavve.
 url: https://giamdalessandro.github.io
-avatar: /assets/imgs/avatar_kermit.jpeg
+avatar: assets/imgs/avatar_kermit.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /assets/imgs/bg_daniel-romanovsky-old-city-01.jpg
+cover_image: assets/imgs/bg_daniel-romanovsky-old-city-01.jpg
 
 # Gem
 plugins:

@@ -9,12 +9,15 @@
       <img src="{{ avatar }}" class="avatar-image" alt="{{ site.author.name }}">
     </div>
   {%- endif %}
+
   <div class="masthead-title">
     <a href="{{ "/" | relative_url }}" title="Home">{{ site.title }}</a>
   </div>
+
   <div class="masthead-tagline">
     <small>{{ site.description }}</small>
   </div>
+
   {%- if site.data.navigation -%}
   <nav class="navigation">
     <ul class="navigation-list">
@@ -26,6 +29,7 @@
     </ul>
   </nav>
   {%- endif -%}
+
   {% if site.data.social -%}
     <div class="social pure-menu pure-menu-horizontal">
       <ul class="social-icons pure-menu-list">
@@ -39,9 +43,10 @@
       </ul>
     </div>
   {%- endif %}
-</header>
 
-<!-- footer per cotare artista immagine coperitna-->
-<!--<footer class="footer">
-  {%- include my_content.html -%}
-</footer>-->
+  <!-- copyright artista immagine coperitna-->
+  <div id="bottom-pin">
+    {%- include my_content.html -%}
+  </div>
+
+</header>

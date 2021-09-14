@@ -256,6 +256,11 @@ footer {
   margin-top: var(--spacer-3);
   margin-bottom: var(--spacer-3); }
 
+#bottom-pin {
+  position: absolute;
+  bottom: 0;
+  left: auto; }
+
 @media (min-width: 48rem) {
   .content {
     padding-top: var(--spacer-3);
