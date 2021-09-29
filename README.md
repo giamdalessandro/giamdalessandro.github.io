@@ -1,6 +1,6 @@
 # giamdalessandro.github.io
 
-Personal `github pages` website repository, web page available [here](https://giamdalessandro.github.io/).
+Personal website, available [here](https://giamdalessandro.github.io/).
 
 
 ### References
