@@ -60,12 +60,12 @@ dribbble_url:
 google_analytics:
 
 # Optimize Jekyll
-exclude:
-  - .git
-  - .jekyll-cache
-  - .sass-cache
-  - README.md
-  #- LICENSE.md
+#exclude:
+#  - .git
+#  - .jekyll-cache
+#  - .sass-cache
+#  - README.md
+#  #- LICENSE.md
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
