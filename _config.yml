@@ -66,7 +66,6 @@ collections: [sections]
 # Optimize Jekyll
 exclude:
   - .git
-  - .editorconfig
   - .jekyll-cache
   - .sass-cache
   - scripts/
