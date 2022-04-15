@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 git_source(:github) { |repo_name| "https://github.com/giamdalessandro.github.io"}
-gem "sassc"   # sass is deprecated
+#gem "sassc"   # sass is deprecated
 gem "jekyll"
 
 group :jekyll_plugins do

@@ -74,7 +74,6 @@ DEPENDENCIES
   jekyll-remote-theme
   jekyll-sitemap
   jekyll-theme-prologue
-  sassc
 
 BUNDLED WITH
    2.2.27
