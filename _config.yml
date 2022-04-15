@@ -70,8 +70,5 @@ exclude:
   - .jekyll-cache
   - .sass-cache
   - scripts/
-  - Gemfile
-  - Gemfile.lock
-  - jekyll-theme-prologue.gemspec
   - README.md
   - LICENSE.md
