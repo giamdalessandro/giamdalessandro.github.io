@@ -1,5 +1,10 @@
-# ⚠️ Unmaintained ⚠️
-
+---
+title: Old README
+subtitle: prologue theme intro
+layout: "page"
+icon: fa-book
+order: 3
+---
 # Prologue - Jekyll Theme
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)
