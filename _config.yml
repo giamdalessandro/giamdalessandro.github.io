@@ -64,9 +64,8 @@ exclude:
   - .git
   - .jekyll-cache
   - .sass-cache
-  - scripts/
   - README.md
-  - LICENSE.md
+  #- LICENSE.md
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
