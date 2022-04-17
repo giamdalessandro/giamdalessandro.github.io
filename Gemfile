@@ -1,5 +1,4 @@
-# frozen_string_literal: true
-source "https://rubygems.org"
+source "https://rubygems.org" # frozen_string_literal: true
 
 git_source(:github) { |repo_name| "https://github.com/giamdalessandro.github.io"}
 gem "sassc"   # sass is deprecated
