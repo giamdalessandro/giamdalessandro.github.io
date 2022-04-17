@@ -69,4 +69,4 @@ exclude:
   - .jekyll-cache
   - .sass-cache
   - README.md
-  #- LICENSE.md
+  - LICENSE.md
