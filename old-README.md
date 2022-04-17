@@ -3,7 +3,7 @@ title: Old README
 subtitle: prologue theme intro
 layout: "page"
 icon: fa-book
-order: 3
+order: 4
 ---
 # Prologue - Jekyll Theme
 
