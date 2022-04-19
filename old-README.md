@@ -1,7 +1,7 @@
 ---
 title: Old README
 subtitle: prologue theme intro
-layout: "page"
+layout: page
 icon: fa-book
 order: 4
 hide: true
