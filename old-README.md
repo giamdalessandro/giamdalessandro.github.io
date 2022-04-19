@@ -4,6 +4,7 @@ subtitle: prologue theme intro
 layout: "page"
 icon: fa-book
 order: 4
+hide: true
 ---
 # Prologue - Jekyll Theme
 
