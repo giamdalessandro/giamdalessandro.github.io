@@ -231,9 +231,9 @@ section ul, section ol, article ul, article ol { padding-left: 0.25em; margin-le
 
 .image img { display: block; width: 100%; }
 
-.image.avatar48 { width: 48px; height: 48px; background: #f00; }
+.image.avatar48 { width: 70px; height: 70px; background: #f00; }
 
-.image.avatar48 img { width: 48px; height: 48px; }
+.image.avatar48 img { width: 70px; height: 70px; }
 
 .image.fit { display: block; width: 100%; }
 

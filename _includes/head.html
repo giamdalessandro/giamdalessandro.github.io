@@ -7,10 +7,16 @@
   <meta name="robots" content="{{- page.robots | default: 'index, follow' -}}" />
   {%- unless page.canonical == false -%}<link rel="canonical" href="{{- page.url | absolute_url -}}" />{%- endunless -%}
   
+  <!-- ZAVVE
+    _page_title is the web page title (browser tab title), 
+    had to hard-code my title to avoid reading <br/> in _config.yml;
+    - ex line 14: {{- site.title | default: "Untitled Website" -}} 
+  -->
+  
   <!-- Title, description, author -->
   {%- capture _page_title -%}
     {%- if page.title -%}{{- page.title | append: ' | ' -}}{%- endif -%}
-    {{- site.title | default: "Untitled Website" -}}
+    {{- "Giammarco D'Alessandro" | default: "Untitled Website" -}}
     {%- if site.subtitle -%}{{- site.subtitle | prepend: ' - ' -}}{%- endif -%}
   {%- endcapture -%}
   {%- assign _page_title = _page_title | escape -%}
