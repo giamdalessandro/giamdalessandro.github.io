@@ -1,3 +1,7 @@
 # jekyll stuff
 .sass-cache/
 .jekyll-cache/
+_site/
+
+# ZAVVE 
+reote-themes/

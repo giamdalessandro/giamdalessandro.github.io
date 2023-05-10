@@ -1,7 +1,9 @@
-# giamdalessandro.github.io
+# Starter kit for [Alembic](https://alembic.darn.es/)
 
-Personal website, available [here](https://giamdalessandro.github.io/).
+This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-kit/tree/remote-theme) (see `remote-theme` branch).
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
 
-### References
-- This website is based on [Jekyll](https://jekyllrb.com/) and theme [Prologue](https://jekyll-themes.com/prologue/).
+or
+
+**[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**

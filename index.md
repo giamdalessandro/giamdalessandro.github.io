@@ -1,9 +1,8 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-title: Homepage
-icon: fa-home
-order: 1
+title: Welcome to my website
+feature_image: "https://picsum.photos/1300/400?image=989"
+feature_text: |
+  ## Hello world
 ---
+
+There isn't much going on here yet, but watch this space
