@@ -396,7 +396,7 @@ input[type="button"]:active, input[type="submit"]:active, input[type="reset"]:ac
 
 #main > section.dark a:hover, #main article.dark a:hover { border-bottom-color: rgba(255, 255, 255, 0); }
 
-#main > section.cover, #main article.cover { padding: 12em 0; position: relative; z-index: 0; }
+#main > section.cover, #main article.cover { padding: 34vh 0; position: relative; z-index: 0; }
 
 #main > section.cover img.back, #main article.cover img.back { position: absolute; object-fit: cover; width: 100%; height: 100%; left: 0; top: 0; z-index: -1; }
 
