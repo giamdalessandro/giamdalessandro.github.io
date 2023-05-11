@@ -1,7 +1,11 @@
 # jekyll stuff
+_site/
 .sass-cache/
 .jekyll-cache/
-_site/
+.jekyll-metadata
+alembic-jekyll-theme-*.gem
+Gemfile.lock
+**/Gemfile.lock
 
 # ZAVVE 
 reote-themes/
