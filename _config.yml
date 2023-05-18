@@ -42,6 +42,10 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
+#- title: Elements
+#  url: /elements/  
+- title: Categories
+  url: /categories/
 
 # Footer nav
 navigation_footer:
