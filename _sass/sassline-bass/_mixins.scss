@@ -24,7 +24,7 @@ $max-widths: map-values($maxwidths);
   @if $value == string {
     // If using 'break-1', 'break-2' etc output the correct breakpoints from map.
     @if map-has-key($breakpoints, $break) {
-      @media screen and (min-width: #{calc(map-get($breakpoints, $break) / 16 * 1em)} ) { @content; }
+      @media screen and (min-width: #{calc(map-get($breakpoints, $break) / 16) * 1em} ) { @content; }
     } @else {
       @warn "#{$break} is not a set breakpoint variable";
     }
@@ -280,7 +280,7 @@ $max-widths: map-values($maxwidths);
         $baseline-shift: #{calc(($fontsize / 2 * (($lineheight * $rootsize / $fontsize) - $cap-height)) / $rootsize + 0.00001)};
         $baseline-push: #{$below - calc(($fontsize / 2 * (($lineheight * $rootsize / $fontsize) - $cap-height)) / $rootsize + 0.00001)};
 
-        @media screen and (min-width: calc(nth($points, $i) / 16 * 1em)) {
+        @media screen and (min-width: (calc(nth($points, $i) / 16) * 1em)) {
           margin-bottom: #{$baseline-push}rem;
           padding-top: #{$baseline-shift}rem;
         }
@@ -307,7 +307,7 @@ $max-widths: map-values($maxwidths);
         $baseline-shift: #{calc(($get-size / 2 * (($lineheight * $rootsize / $get-size) - $cap-height)) / $rootsize + 0.00001)};
         $baseline-push: #{$below - calc(($get-size / 2 * (($lineheight * $rootsize / $get-size) - $cap-height)) / $rootsize + 0.00001)};
 
-        @media screen and (min-width: calc(nth($points, $i) / 16 * 1em) ) {
+        @media screen and (min-width: (calc(nth($points, $i) / 16) * 1em) ) {
           margin-bottom: #{$baseline-push}rem;
           padding-top: #{$baseline-shift}rem;
         }
@@ -369,7 +369,7 @@ $max-widths: map-values($maxwidths);
         $rootsize: nth($sizes, $i);
         $baseline-shift: #{($fontsize / 2 * (($lineheight * $rootsize / $fontsize) - $cap-height)) / $rootsize + 0.00001};
         $baseline-push: #{$below - (($fontsize / 2 * (($lineheight * $rootsize / $fontsize) - $cap-height)) / $rootsize + 0.00001)};
-        @media screen and (min-width: calc(nth($points, $i) / 16 * 1em) ) {
+        @media screen and (min-width: (calc(nth($points, $i) / 16) * 1em) ) {
           font-size: #{$fontsize / nth($sizes, $i)}rem;
           margin-bottom: #{$baseline-push}rem;
           padding-top: #{$baseline-shift}rem;
@@ -392,7 +392,7 @@ $max-widths: map-values($maxwidths);
         $rootsize: nth($sizes, $i);
         $baseline-shift: #{calc(($get-size / 2 * (($lineheight * $rootsize / $get-size) - $cap-height)) / $rootsize + 0.00001)};
         $baseline-push: #{$below - calc(($get-size / 2 * (($lineheight * $rootsize / $get-size) - $cap-height)) / $rootsize + 0.00001)};
-        @media screen and (min-width: calc(nth($points, $i) / 16 * 1em) ) {
+        @media screen and (min-width: (calc(nth($points, $i) / 16) * 1em) ) {
           font-size: #{calc($get-size / nth($sizes, $i))}rem;
           margin-bottom: #{$baseline-push}rem;
           padding-top: #{$baseline-shift}rem;
