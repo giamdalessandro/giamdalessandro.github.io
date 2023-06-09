@@ -21,6 +21,7 @@ plugins:
 - jemoji
 - jekyll-remote-theme
 
+
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''

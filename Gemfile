@@ -10,8 +10,8 @@ gem "jekyll-seo-tag", "~> 2.8.0"  #2.6.1
 gem "jekyll-redirect-from", "~> 0.16.0"
 gem "jekyll-feed", "~> 0.15.1"
 
-gem "webrick"  #ZAVVE
-gem "kramdown-parser-gfm"  #ZAVVE
+gem "webrick", "~> 1.8.1"  #ZAVVE
+gem "kramdown-parser-gfm", "~> 1.1.0"  #ZAVVE
 gem "jekyll-commonmark-ghpages", "~> 0.4.0"
 #gem "jekyll-commonmark", "~> 1.4.0"  #1.3.1, original
 
