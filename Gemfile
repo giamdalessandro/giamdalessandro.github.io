@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-gem "github-pages", "~> 228" # to get all github pages dependencies
 gem "jekyll", "~> 3.9.3" #4.1
+gem "github-pages", "~> 228" # to get all github pages dependencies
 
 gem "jekyll-sitemap", "~> 1.4.0"
 gem "jekyll-mentions", "~> 1.6.0"
@@ -11,9 +11,9 @@ gem "jekyll-redirect-from", "~> 0.16.0"
 gem "jekyll-feed", "~> 0.15.1"
 
 gem "webrick", "~> 1.8.1"  #ZAVVE
-gem "kramdown-parser-gfm", "~> 1.1.0"  #ZAVVE
-gem "jekyll-commonmark-ghpages", "~> 0.4.0"
-#gem "jekyll-commonmark", "~> 1.4.0"  #1.3.1, original
+#gem "kramdown-parser-gfm", "~> 1.1.0"  #ZAVVE
+#gem "jekyll-commonmark-ghpages", "~> 0.4.0"
+gem "jekyll-commonmark", "~> 1.4.0"  #1.3.1, original
 
 gem "jekyll-include-cache", "~> 0.2.1"
 gem "jemoji", "~> 0.12.0"
