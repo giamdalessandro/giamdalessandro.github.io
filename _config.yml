@@ -32,11 +32,23 @@ baseurl: ""
 title: "My website"
 description: "This is my new website"
 permalink: pretty
-logo: "/assets/logo/sf_emblem.png"
+logo: "/assets/logos/sf_emblem.png"
+
 
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
+
+## Site favicons & manifest icons
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/assets/logos/emblem_16x.png'
+  32: '/assets/logos/emblem_32x.png'
+  96: '/assets/logos/emblem_96x.png'
+  120: '/assets/logos/emblem_120x.png'
+  144: '/assets/logos/emblem_144x.png'
+  180: '/assets/logos/emblem_180x.png'
+  512: '/assets/logos/emblem_512x.png'
+  1024: '/assets/logos/emblem_1024x.png'
 
 # Header nav
 navigation_header:
