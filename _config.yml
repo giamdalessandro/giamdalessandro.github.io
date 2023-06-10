@@ -4,10 +4,12 @@ remote_theme: daviddarnes/alembic@main
 # File excludes
 exclude:
 - README.md
+- .gitignore
+- remote-themes/
 - Gemfile
 - Gemfile.lock
-- remote-themes/
-- .gitignore
+- .jekyll-cache
+- .sass-cache
 
 # Set plugins
 plugins:
