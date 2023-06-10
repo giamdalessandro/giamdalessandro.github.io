@@ -7,6 +7,7 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - remote-themes/
+- .gitignore
 
 # Set plugins
 plugins:
@@ -23,11 +24,11 @@ plugins:
 
 
 # Site settings
-encoding: utf-8 # Make sure the encoding is right
-url: 'https://giamdalessandro.github.io'
-baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+#encoding: utf-8 # Make sure the encoding is right
+url: "https://giamdalessandro.github.io"
+baseurl: ""
+title: "My website"
+description: "This is my new website"
 permalink: pretty
 logo: "/assets/logo/sf_emblem.png"
 
