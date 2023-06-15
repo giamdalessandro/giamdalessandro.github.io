@@ -27,7 +27,7 @@ plugins:
 
 # Site settings
 encoding: utf-8 # Make sure the encoding is right
-url: "https://giamdalessandro.github.it"  # .io
+url: "https://giamdalessandro.github.io"  # .io
 baseurl: ""
 title: "My website"
 description: "This is my new website"
