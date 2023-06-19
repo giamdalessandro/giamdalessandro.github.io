@@ -35,9 +35,15 @@ permalink: pretty
 logo: "/assets/logos/sf_emblem.png"
 
 
-# Pagination
+# Gem settings
+## Pagination
 paginate: 5
 paginate_path: blog/page:num
+social: # jekyll-seo-tag > social overrides
+  name: David Darnes # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://www.linkedin.com/in/daviddarnes
+    - https://github.com/daviddarnes
 
 ## Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
