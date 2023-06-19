@@ -39,11 +39,11 @@ logo: "/assets/logos/sf_emblem.png"
 ## Pagination
 paginate: 5
 paginate_path: blog/page:num
-social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+#social: # jekyll-seo-tag > social overrides
+#  name: David Darnes # jekyll-seo-tag > real name
+#  links:  # jekyll-seo-tag > social aliases (sameAs)
+#    - https://www.linkedin.com/in/daviddarnes
+#    - https://github.com/daviddarnes
 
 ## Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
@@ -73,6 +73,14 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
+
+# Social links
+social_links:   # Appears in sidebar.
+  #LinkedIn: https://www.linkedin.com/in/giammarco-d-dalessandro
+  GitHub: https://github.com/giamdalessandro
+  email: mailto:test@gmail.com
+  link: https://giamdalessandro.github.io
+  #RSS: /feed.xml
 
 # Collections
 collections:
