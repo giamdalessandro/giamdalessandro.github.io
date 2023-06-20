@@ -90,7 +90,7 @@ collections:
     description: "My thoughts and ideas"
     feature_text: |
       Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "/assets/backgrounds/simon-stalenhag_by-burned-2560.jpg"
 
 # Collection settings
 defaults:
