@@ -76,10 +76,10 @@ navigation_footer:
 
 # Social links
 social_links:   # Appears in sidebar.
-  #LinkedIn: https://www.linkedin.com/in/giammarco-d-dalessandro
-  GitHub: https://github.com/giamdalessandro
+  link: https://giamdalessandro.github.io/about
   email: mailto:test@gmail.com
-  link: https://giamdalessandro.github.io
+  GitHub: https://github.com/giamdalessandro
+  #LinkedIn: https://www.linkedin.com/in/giammarco-d-dalessandro
   #RSS: /feed.xml
 
 # Collections
