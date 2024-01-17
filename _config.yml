@@ -76,7 +76,7 @@ navigation_footer:
 
 # Social links
 social_links:   # Appears in sidebar.
-  link: https://giamdalessandro.github.io/about
+  link: /about
   email: mailto:test@gmail.com
   GitHub: https://github.com/giamdalessandro
   #LinkedIn: https://www.linkedin.com/in/giammarco-d-dalessandro
