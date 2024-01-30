@@ -7,8 +7,6 @@ alembic-jekyll-theme-*.gem
 Gemfile.lock
 **/Gemfile.lock
 
-# ZAVVE 
-remote-themes/
 
 ## portfoYOU theme
 # Ruby Gems

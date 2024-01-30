@@ -100,7 +100,6 @@ exclude:
   - LICENSE
   - "*.log"
   - .gitignore
-  - remote-themes/
   - Gemfile.lock
   - .jekyll-cache
   - .sass-cache
