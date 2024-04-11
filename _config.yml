@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : portfolME
+title               : giamdalessandro
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
@@ -24,26 +24,16 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : giamdalessandro
-  image             : assets/alberUomo_1.jpg
-  #behance           : your_username
-  #dribbble          : your_username
+  image             : ./assets/spacefrog_emblem.png
   email             : username@domain.com
-  #facebook          : your_username
   github            : giamdalessandro
   #gitlab            : your_username
-  #instagram         : your_username
   #kaggle            : your_username
   linkedin          : your_username
   #medium            : your_username
-  #soundcloud        : your_username
-  #spotify           : your_username
   #stackoverflow     : your_user_id
-  #tumblr            : your_username.tumblr.com
-  #twitch            : your_username
   twitter           : your_username
-  #vimeo             : your_username
-  #youtube           : your_channel_name
-  #keybase           : your_username
+  scholar           : your_google_scholar
 
 
 ### Posts ###
@@ -104,3 +94,4 @@ exclude:
   - .jekyll-cache
   - .sass-cache
   - _site/
+  - installation.md
