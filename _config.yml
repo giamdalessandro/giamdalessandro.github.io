@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : giamdalessandro
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      I turn coffee :coffee: into code, use tabs over spaces
+                      and never broke production. 
+                      (This website is still a work in progress, info may be NOT updated!)
 baseurl             : ""                                            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : giamdalessandro/giamdalessandro.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
