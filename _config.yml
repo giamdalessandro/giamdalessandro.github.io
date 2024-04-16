@@ -1,9 +1,7 @@
 ### Site Settings ###
-title               : portfolME
+title               : giamdalessandro
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      This website is still a work in progress, info may be NOT updated! :frog:
 baseurl             : ""                                            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : giamdalessandro/giamdalessandro.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -24,26 +22,16 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : giamdalessandro
-  image             : assets/alberUomo_1.jpg
-  behance           : your_username
-# dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
+  image             : ./assets/spacefrog_emblem.png
+  #email             : username@domain.com
   github            : giamdalessandro
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
+  gitlab            : zascerta
+  #kaggle            : your_username
+  linkedin          : giammarco-d-dalessandro
+  #medium            : your_username
+  #stackoverflow     : your_user_id
   twitter           : your_username
-# vimeo             : your_username
-# youtube           : your_channel_name
-# keybase           : your_username
+  scholar           : your_google_scholar
 
 
 ### Posts ###
@@ -95,12 +83,14 @@ defaults:
 
 ### Exclude from processing ###
 exclude:
-  - README.md
-  - CONTRIBUTING.md
-  - LICENSE
   - "*.log"
-  - .gitignore
   - Gemfile.lock
   - .jekyll-cache
   - .sass-cache
-  - _site/
+  - _site/            # local build
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - .gitignore
+  - installation.md   # my installation notes
+  - pages/blog.html   # not needed now
