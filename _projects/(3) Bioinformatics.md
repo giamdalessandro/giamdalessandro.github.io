@@ -1,6 +1,6 @@
 ---
-name: Bionformatics and Network Medicine
-tools: [bioinformatics, network-medicine]
+name: Bionformatics and Network Medicine course
+tools: [uni-project, bioinformatics, network-medicine]
 image: /assets/projects/BIO2_topological_chart.png
 description: Network analysis in bioinformatics (Liver Fibrosis, Brain during resting state) 
 ---
