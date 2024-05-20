@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : giamdalessandro
 description         : >-
-                      This website is still a work in progress, info may be NOT updated! :frog:
+                      This page is still a work in progress, info may NOT be up-to-date! :frog:
 baseurl             : ""                                            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : giamdalessandro/giamdalessandro.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -30,7 +30,7 @@ author:
   linkedin          : giammarco-d-dalessandro
   #medium            : your_username
   #stackoverflow     : your_user_id
-  twitter           : your_username
+  #twitter           : your_username
   scholar           : your_google_scholar
 
 
