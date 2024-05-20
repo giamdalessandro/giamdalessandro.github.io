@@ -19,12 +19,12 @@ github:
 gitlab:
   url   : https://www.gitlab.com/
   icon  : fab fa-gitlab
-  color : fca326
+  color : fc6d27
 
 kaggle:
   url   : https://www.kaggle.com/
   icon  : fab fa-kaggle
-  color : 20beff
+  color : 20beff 
 
 linkedin:
   url   : https://www.linkedin.com/in/
