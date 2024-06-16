@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : giamdalessandro
 description         : >-
-                      This page is still a work in progress, info may NOT be up-to-date! :frog:
+                      giamdalessandro personal page :frog:
 baseurl             : ""                                            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : giamdalessandro/giamdalessandro.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
