@@ -10,6 +10,8 @@ weight: 3
 Hi I am **Giammarco D'Alessandro** :wave:,<br>
 I am passionate about Deep Learning and AI explainability.
 
+<a class="btn btn-outline-primary mt-1" href="/assets/dalessandro-CV_eng.pdf">full CV</a>
+
 <!--<div class="row">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
