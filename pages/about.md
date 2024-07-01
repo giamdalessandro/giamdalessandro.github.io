@@ -7,8 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **Giammarco D'Alessandro** :wave:,<br>
-I am passionate about Deep Learning and AI research.
+Hi I am **Giammarco D'Alessandro** :wave:, I am passionate about Deep Learning and AI research.
 
 <!--<div class="row">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
