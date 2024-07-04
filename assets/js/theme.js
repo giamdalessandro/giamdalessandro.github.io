@@ -17,10 +17,10 @@ function initTheme() {
     setTheme(savedTheme);
   } else if (window.matchMedia && window.matchMedia(QUERY_KEY).matches) {
     // system theme
-    setTheme(themes.LIGHT);
+    setTheme(themes.DARK);
   } else {
     // Default theme
-    setTheme(themes.DARK);
+    setTheme(themes.LIGHT);
   }
 
   // Watch for system theme changes
