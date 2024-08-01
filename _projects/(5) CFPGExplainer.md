@@ -12,7 +12,7 @@ CFPGExplainer (**C**ounter**F**actual **P**arameterized **G**raph neural network
 
 The proposed framework expands on the idea of perturbation-based approach to achieve, at once, commonly desired properties for GNN explainers, such as model-level explanations (i.e. not tailored to a single prediction instance), a more efficient inference process and counterfactual examples for each generated explanation.
 
-P.S.: This was my Master's final project, go [here](/assets/dalessandro_master_thesis.pdf) go the full thesis. 
+<!--P.S.: This was my Master's final project, go [here](/assets/dalessandro_master_thesis.pdf) go the full thesis.-->
 
 <!--
 <div style="text-align: center;">
