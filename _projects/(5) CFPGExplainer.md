@@ -7,10 +7,11 @@ description: Master thesis project.
 
 # CFPGExplainer
 CFPGExplainer (**C**ounter**F**actual **P**arameterized **G**raph neural network **E**xplainer) is a counterfactual explainer model for the node classification task in Graph Neural Networks (GNNs) I developed for my master thesis project together with Prof. Fabrizio Silvestri and Prof. Simone Scardapane, my advisor and co-advisor respectively. 
-<img src="/assets/projects/cfpg_gnn_arch_2.png" alt="cfpg_pic" width="75%" desc="architecture"/>
-<!--<img src="/assets/projects/pertBased_expl_arch.png" alt="cfpg_pic" width="50%"/>-->
+<!-- <img src="/assets/projects/cfpg_gnn_arch_2.png" alt="cfpg_pic" width="75%" desc="architecture"/> -->
+<img src="/assets/projects/CFPG-PertBasedExpl.png" alt="cfpg_pic" width="50%"/>
 
 The proposed framework expands on the idea of perturbation-based approach to achieve, at once, commonly desired properties for GNN explainers, such as model-level explanations (i.e. not tailored to a single prediction instance), a more efficient inference process and counterfactual examples for each generated explanation.
+- [github](https://github.com/giamdalessandro/masterThesisCFPG) 
 
 <!--P.S.: This was my Master's final project, go [here](/assets/dalessandro_master_thesis.pdf) go the full thesis.-->
 
